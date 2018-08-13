@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InAction", "InAction\InAction.csproj", "{569F0A1A-7298-42EB-B6A4-B52E9CF03957}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{569F0A1A-7298-42EB-B6A4-B52E9CF03957}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{569F0A1A-7298-42EB-B6A4-B52E9CF03957}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{569F0A1A-7298-42EB-B6A4-B52E9CF03957}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{569F0A1A-7298-42EB-B6A4-B52E9CF03957}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
